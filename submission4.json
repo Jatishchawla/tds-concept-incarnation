@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic wide-angle landscape photograph, golden hour light, depicting a large hillside with multiple winding dirt paths. Each individual path, when followed visually, clearly slopes upward from left to right, with small rocks and grass reinforcing the upward incline. However, the entire mountain itself slopes downward from left to right when viewed as a whole, with the horizon line and distant terrain clearly showing a descending slope. Both the local upward slopes and the global downward slope are simultaneously visible and visually convincing in the same frame. The viewer’s eye is pulled upward by the paths but downward by the mountain at the same time, creating a strong spatial contradiction. Mood: quiet unease, realistic but subtly impossible. Color palette: warm golden sunlight, deep green vegetation, soft blue distant haze. No text, no numbers, no charts, no arrows, no labels, no symbols. Photorealistic, not surreal, physically believable.",
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A hillside where every individual path slopes upward left to right, but the entire mountain slopes downward—showing conflicting local and global trends simultaneously in one scene."
+}
